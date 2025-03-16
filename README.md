@@ -1,2 +1,2 @@
-# Drone-phisics-simulator-PRIVATE-
+# Drone-physics-simulator-PRIVATE-
 Drone physics simulator in Unity. I will use it to code and test the flight control systems for a real drone I am building. The simulator will help other developers create their own control systems without needing a physical drone or risking breaking one during testing. They can simply use the simulator's API to test their code, improve its efficiency, or train an AI how to control a drone or any flying device much faster. The thrust power is calculated in real-time based on the propeller's speed. If it is blocked by an object, it no longer generates thrust, making the physics more realistic.
